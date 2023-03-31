@@ -1,5 +1,5 @@
 ![Nyuu][1]
-
+++++++++++[>+++++++++++>++++++++++<<-]>--.+++++++++.>-.<++++.-----------.+++++++++++.----..
 **c**, x86asm, c++, and sometimes pascal. Learning Rust 🦀
 
 ### Programming peaked at C99
