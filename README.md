@@ -1,7 +1,7 @@
 ![Nyuu][1]
 <picture>
-  <img src="./Nyuu-Light.png#gh-light-mode-only" height="300" width="1080"/>
-  <img src="./Nyuu-Dark.png#gh-dark-mode-only" height="300" width="1080"/>
+  <img src="./Nyuu-Light.png#gh-light-mode-only"/>
+  <img src="./Nyuu-Dark.png#gh-dark-mode-only"/>
 </picture>
 
 
