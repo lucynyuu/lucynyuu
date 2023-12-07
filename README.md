@@ -1,7 +1,7 @@
 ![Nyuu][1]
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucynyuu/lucynyuu/main/Nyuu-Dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucynyuu/lucynyuu/main/Nyuu-Light.png">
+  <img src="./Nyuu-Light.png#gh-light-mode-only" height="300" width="1080"/>
+  <img src="./Nyuu-Dark.png#gh-dark-mode-only" height="300" width="1080"/>
 </picture>
 
 
