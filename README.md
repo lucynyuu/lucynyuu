@@ -1,10 +1,7 @@
-![Nyuu][1]
 <picture>
   <img src="./Nyuu-Light.png#gh-light-mode-only"/>
   <img src="./Nyuu-Dark.png#gh-dark-mode-only"/>
 </picture>
-
-
 ++++++++++[>+++++++++++>++++++++++<<-]>--.+++++++++.>-.<++++.-----------.+++++++++++.----..
 
 **c**, x86asm, c++, and sometimes pascal. Learning Rust 🦀
