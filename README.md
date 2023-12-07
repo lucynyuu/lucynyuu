@@ -1,7 +1,9 @@
 <picture>
-  <img src="./Nyuu-Light.png#gh-light-mode-only"/>
-  <img src="./Nyuu-Dark.png#gh-dark-mode-only"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lucynyuu/lucynyuu/assets/126999070/a0b4baa4-6b53-4908-8e0f-0528d379d898">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lucynyuu/lucynyuu/assets/126999070/b3da3b68-22c0-4215-976f-2dec2d3f9c75">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/lucynyuu/lucynyuu/assets/126999070/b3da3b68-22c0-4215-976f-2dec2d3f9c75">
 </picture>
+
 ++++++++++[>+++++++++++>++++++++++<<-]>--.+++++++++.>-.<++++.-----------.+++++++++++.----..
 
 **c**, x86asm, c++, and sometimes pascal. Learning Rust 🦀
