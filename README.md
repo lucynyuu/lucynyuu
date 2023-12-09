@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucynyuu)](https://en.wikipedia.org/wiki/Assembly_language)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucynyuu&theme=tokyonight)
 
 ### Programming peaked at C99
 
