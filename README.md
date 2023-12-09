@@ -8,7 +8,7 @@
 
 **c**, x86asm, c++, and sometimes pascal. Learning Rust 🦀
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucynyuu?exclude_repo=Ultraviolet)](https://en.wikipedia.org/wiki/Assembly_language)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucynyuu&exclude_repo=Ultraviolet)](https://en.wikipedia.org/wiki/Assembly_language)
 
 ### Programming peaked at C99
 
