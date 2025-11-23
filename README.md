@@ -45,7 +45,7 @@ _start:
     sub rbx, rcx
     mov [r12 + 2], ebx
 
-    jmp     r12
+    jmp  r12
 ```
 
 <!--[1]: https://cdn.discordapp.com/attachments/676226832856776714/1023823772140179516/Nyuu.png-->
