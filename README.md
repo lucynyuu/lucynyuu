@@ -45,5 +45,5 @@ _start:
     sub rbx, rcx
     mov [r12 + 2], ebx
 
-    jmp  r12
+    jmp r12
 ```
