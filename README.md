@@ -10,25 +10,42 @@
 
 ### Programming peaked at C99
 
-This is the most useful program
 ```asm
+section .data
+bytes:
+    db 0xFE, 0x05
+    dd 0
+    db 0xEB, 0xF9
+
 section .text
-global _start
+    global _start
 
 _start:
-    mov rax, 1
-    mov rdi, 1
-    lea rsi, [rel msg]
-    mov rdx, msg_end - msg
-    syscall
-
-    mov rax, 60
+    mov rax, 9
     xor rdi, rdi
+    mov rsi, 4096
+    mov rdx, 7
+    mov r10, 34
+    mov r8, -1
+    xor r9, r9
     syscall
 
-section .rodata
-msg: db "Hello, World", 10
-msg_end:
+    mov r12, rax
+
+    lea rsi, [rel bytes]
+    mov rdi, r12
+    mov rcx, 8
+
+.copy:
+    movsb
+    loop .copy
+
+    lea rbx, [r12 + 0]
+    lea rcx, [r12 + 2]
+    sub rbx, rcx
+    mov [r12 + 2], ebx
+
+    jmp     r12
 ```
 
 <!--[1]: https://cdn.discordapp.com/attachments/676226832856776714/1023823772140179516/Nyuu.png-->
