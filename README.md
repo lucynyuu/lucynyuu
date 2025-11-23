@@ -11,7 +11,7 @@
 ### Programming peaked at C99
 
 This is the most useful program
-```x86asm
+```asm
 section .text
 global _start
 
