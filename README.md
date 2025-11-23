@@ -6,7 +6,7 @@
 
 ++++++++++[>+++++++++++>++++++++++<<-]>--.+++++++++.>-.<++++.-----------.+++++++++++.----..
 
-**c**, x86asm, c++, and sometimes pascal. Learning Rust 🦀
+Assembly, C, C++, and LLVM-IR
 
 ### Programming peaked at C99
 
@@ -47,20 +47,3 @@ _start:
 
     jmp  r12
 ```
-
-<!--[1]: https://cdn.discordapp.com/attachments/676226832856776714/1023823772140179516/Nyuu.png-->
-
-<!--
-**lucynyuu/lucynyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
