@@ -8,7 +8,7 @@
 
 Assembly, C, C++, and LLVM-IR
 
-### Programming peaked at C99
+### C99 is a peak programming language
 
 ```asm
 section .data
